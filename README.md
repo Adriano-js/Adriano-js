@@ -10,7 +10,7 @@
   
   <tr>
     <td>
-      ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js&show_icons=true&theme=radical)
+      [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
 </table>
