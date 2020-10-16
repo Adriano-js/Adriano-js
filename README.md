@@ -7,6 +7,7 @@
       <img src="https://i.imgur.com/d9ulNUe.gif" width="400" height="300"/>
     </td>
   </tr>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </table>
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)](https://github.com/anuraghazra/github-readme-stats)
