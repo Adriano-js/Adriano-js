@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-js&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![hippo](https://i.pinimg.com/originals/01/32/31/01323190cd6933de96287a5804fd636a.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-js&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Alt Text](https://cdn.dribbble.com/users/2520294/screenshots/7269423/media/8db02365a1363822ae9f0554cf3d4469.gif)
