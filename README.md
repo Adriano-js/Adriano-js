@@ -1,4 +1,4 @@
-<table width="auto">
+<table width="1500px">
   <tr>
     <td>
       <img src="https://i.imgur.com/WAtGNF6.png" width="250" height="209"/>
