@@ -2,6 +2,7 @@
   <tr>
     <td>
       <img src="https://i.imgur.com/WAtGNF6.png" width="250" height="209"/>
+      
       ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js&show_icons=true&theme=radical)
     </td>
     <td>
