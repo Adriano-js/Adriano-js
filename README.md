@@ -34,6 +34,20 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 <br>
 <br>
 <br>
+<!--- Projects -->
+<p align="center">
+  
+<img src="https://i.imgur.com/zIiSREI.png" width="140" />
+
+</p>
+
+* Habiteiro
+
+<br>
+<br>
+<br>
+<br>
+
 <!--- Right Now -->
 <p align="center">
   
