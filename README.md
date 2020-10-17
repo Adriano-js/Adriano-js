@@ -23,6 +23,8 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 
 </p>
 
+* I'm currently studying: <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)
 
 
