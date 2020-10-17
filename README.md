@@ -63,7 +63,7 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 
 </p>
 
-* I'm currently studying: <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+* I'm currently studying: <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 * I'm about to finish my I.T. Technician Course (December/2020) - ETEC Parque Belém
 * I'll begin my CS degree in January.
