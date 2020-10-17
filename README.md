@@ -38,10 +38,12 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 <p align="center">
   
 <img src="https://i.imgur.com/zIiSREI.png" width="200" />
-Habiteiro
-Habiteiro
+</p>
+
+<p align="center">
 Habiteiro
 </p>
+
 
 
 
