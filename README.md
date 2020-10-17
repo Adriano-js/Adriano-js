@@ -34,7 +34,12 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 <br>
 <br>
 
-<h2>Right Now</h2>
+<!--- Right Now -->
+<p align="center">
+  
+<img src="https://i.imgur.com/VhRIoA1.png" width="140" />
+
+</p>
 
 * I'm currently studying: <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
