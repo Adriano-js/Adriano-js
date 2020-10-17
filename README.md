@@ -37,7 +37,7 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 <!--- Projects -->
 <p align="center">
   
-<img src="https://i.imgur.com/zIiSREI.png" width="240" />
+<img src="https://i.imgur.com/zIiSREI.png" width="200" />
 
 </p>
 
