@@ -41,7 +41,7 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 </p>
 
 <p align="center">
-Habiteiro
+  <a href="https://www.linkedin.com/in/adrianonavarro/">Portfolio</a>
 </p>
 
 
