@@ -18,6 +18,8 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 
 <br>
 <br>
+<br>
+<br>
 
 <!--- Skills -->
 <p align="center">
@@ -31,6 +33,8 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 
 </p>
 
+<br>
+<br>
 <br>
 <br>
 
