@@ -4,7 +4,7 @@
 
 I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my first job. Besides programming, I enjoy creative writing and I'm currently planning several book series.
 
-<img src="https://i.imgur.com/KQ8ZDLa.png" height="240" width="240"/>
+<img src="https://i.imgur.com/KQ8ZDLa.png" height="300" width="auto"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)
 
