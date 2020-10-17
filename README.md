@@ -25,17 +25,18 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 * I'm about to finish my I.T. Technician Course (December/2020)
 * I'll begin my CS degree in January.
 
+<p align="center">
+
 <img src="https://i.imgur.com/KQ8ZDLa.png" height="50" width="auto"/>
+
+</p>
+
+
 
 <h2>Fun Facts</h2>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)
 
-<p align="center">
-
-
-
-</p>
 
 
 
