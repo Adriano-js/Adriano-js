@@ -4,6 +4,12 @@
 
 </p>
 
+<p align="center">
+  
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</p>
+
 I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my first job. Besides programming, I enjoy creative writing and I'm currently planning several book series.
 
 <p align="center">
