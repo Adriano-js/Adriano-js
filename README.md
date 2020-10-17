@@ -11,8 +11,11 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 <img src="https://i.imgur.com/KQ8ZDLa.png" height="50" width="auto"/>
 
 </p>
+<p align="center">
 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+
+</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)
 
