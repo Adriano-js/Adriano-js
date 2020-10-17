@@ -18,7 +18,7 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 
 <p align="center">
   
-<img src="https://i.imgur.com/LYbBjAN.png" width="240" />
+<img src="https://i.imgur.com/LYbBjAN.png" width="140" />
 
 </p>
 
