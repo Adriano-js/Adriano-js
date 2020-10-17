@@ -81,9 +81,15 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 <img src="https://i.imgur.com/MLjX0Xu.png" width="140" />
 
 </p>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)
-
+<table width="800">
+<tr>
+  <td>
+    
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)6
+    
+  </td>
+  </tr>
+</table>
 
 
 
