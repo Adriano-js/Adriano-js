@@ -1,8 +1,2 @@
-<img src="https://i.imgur.com/WAtGNF6.png" width="400px" height="318px"/>
+I'm a Front-End Developer based in Brazil. I am currently looking for my first job. Besides programming, I enjoy creative writing and I'm currently planning several book series.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-js&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adriano-js&repo=convoychat" />
-</a>
