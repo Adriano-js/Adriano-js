@@ -1,7 +1,5 @@
 <p align="center">
 
-<img src="https://i.imgur.com/N26SVi0.png" width="240" />
-
 </p>
 
 <p align="center">
@@ -25,12 +23,16 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 * I'm about to finish my I.T. Technician Course (December/2020)
 * I'll begin my CS degree in January.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)
+
+<h2>Fun Facts</h2>
+
 <p align="center">
 
 <img src="https://i.imgur.com/KQ8ZDLa.png" height="50" width="auto"/>
 
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adriano-js)
+<img src="https://i.imgur.com/N26SVi0.png" width="240" />
 
 
