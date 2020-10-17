@@ -16,6 +16,7 @@
 
 I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my first job. Besides programming, I enjoy creative writing and I'm currently planning several book series.
 
+<!--- Skills -->
 <p align="center">
   
 <img src="https://i.imgur.com/LYbBjAN.png" width="140" />
