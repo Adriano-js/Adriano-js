@@ -8,7 +8,7 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 
 <p align="center">
 
-<img src="https://i.imgur.com/KQ8ZDLa.png" height="50" width="auto"/> <br>
+<img src="https://i.imgur.com/KQ8ZDLa.png" height="50" width="auto"/>
 
 </p>
 
