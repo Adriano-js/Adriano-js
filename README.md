@@ -3,5 +3,5 @@
 <h1>Front-End Developer</h1>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-js&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-js&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </p>
