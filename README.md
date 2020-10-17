@@ -43,7 +43,7 @@ I'm a **Front-End Developer** based in **Brazil**. I am currently looking for my
 <p align="center">
   <a href="https://www.adrianonavarro.xyz">
   
-  <img src="https://i.imgur.com/SM3fvJb.png"/>
+  <img src="https://i.imgur.com/SM3fvJb.png" width="200"/>
   
 </a>
 </p>
